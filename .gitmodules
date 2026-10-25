@@ -1,0 +1,8 @@
+[submodule "Hardware"]
+	path = Hardware
+	url = https://github.com/Smart-Fall/Hardware
+	branch = main
+[submodule "Software"]
+	path = Software
+	url = https://github.com/Smart-Fall/Software
+	branch = main
